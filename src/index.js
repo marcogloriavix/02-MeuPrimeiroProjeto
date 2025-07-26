@@ -1,5 +1,7 @@
 console.log("Olá Mundo . Estou de Volta !!!");
 
+
+
 //************Comandos novos  - NO TERMINAL   ********************
 // node --watch src/index.js
 // Fica vigiando as alterações e replicanco no terminal, ao salvar o arquivo. 
