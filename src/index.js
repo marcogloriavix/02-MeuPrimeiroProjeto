@@ -1,7 +1,5 @@
 console.log("Olá Mundo . Estou de Volta !!!");
 
-
-
 //************Comandos novos  - NO TERMINAL   ********************
 // node --watch src/index.js
 // Fica vigiando as alterações e replicanco no terminal, ao salvar o arquivo. 
@@ -12,6 +10,9 @@ console.log("Olá Mundo . Estou de Volta !!!");
 // ***** PROJETO NODE  *****
 // npm init -y         inicia um projeto node - GERENCIADOR DE PACOTES NODE
 // node nome_arquivo    roda arquivo javascript - ATENçÃO AO caminho
+// Alt + Shift + seta p/ baixo    Duplica uma linha de código;
+// Win + seta .(ponto)       Abre opções de emoije       
+
 // ******
 
 // ******      Comandos de navegação de diretórios:    *********
